@@ -1,6 +1,6 @@
 # Privacy Policy — Lola Finance
 
-_Last updated: 2026-10-30_
+_Last updated: 2026-10-30 (budget suggestions added)_
 
 Lola Finance is a private, self-hosted personal finance application operated by David De Santis for
 their own household. It is not offered to the public, and no one else can sign up for or use it.
@@ -18,8 +18,10 @@ Plaid's handling of data is described in the
 
 ## How it is used
 
-Only to show the operator their own net worth, spending and investments, and to track tax lots and
-wash sales. The data is **not sold, shared, rented or used for advertising**, and is not disclosed to
+Only to show the operator their own net worth, spending and investments, to track tax lots and
+wash sales, and to suggest where the household could budget and save. Budget suggestions are computed
+on the same server; a small AI model that also runs on that server writes their wording. No data is sent
+to any outside AI service. The data is **not sold, shared, rented or used for advertising**, and is not disclosed to
 anyone except as required by law.
 
 ## Where it is stored and how it is protected
